@@ -1,1 +1,2 @@
-print("This is just for practice")
+print("You are awesome")
+print("just a simple addtion")
