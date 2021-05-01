@@ -5,3 +5,4 @@ if a=="yes":
     print("You are educated")
 else:
     print("Everything is Okay but get education")
+print("new program")
